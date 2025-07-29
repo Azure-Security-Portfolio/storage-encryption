@@ -6,12 +6,12 @@ Securing Azure Storage Accounts with encryption-at-rest and Blob Soft Delete to 
 
 ## Table of Contents
 
-- [Overview]
-- [Real-World Risk]
-- [What I Built]
-- [Diagram]
-- [Objectives]
-- [Steps Performed]
+- [Overview](#overview)
+- [Real-World Risk](#real-world-risk)
+- [What I Built](#what-i-built)
+- [Diagram](#diagram)
+- [Objectives](#objectives)
+- [Steps Performed](#steps-performed)
   - [1. Resource Group Creation]
   - [2. Key Vault Setup]
   - [3. Customer-Managed Key Generation]
@@ -21,10 +21,10 @@ Securing Azure Storage Accounts with encryption-at-rest and Blob Soft Delete to 
   - [7. Deletion and Soft Delete Demo] 
   - [8. Data Recovery] 
   - [9. Customer-Managed Key Setup]
-- [Screenshots]
-- [Lessons Learned]
-- [Notes & Limitations]
-- [References]
+- [Screenshots](#screenshots)
+- [Lessons Learned](#lessons-learned)
+- [Notes & Limitations](#notes--limitations)
+- [References](#references)
 
 ---
 

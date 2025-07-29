@@ -1,4 +1,4 @@
-## Azure Storage Encryption & Soft Delete
+## Azure Storage Encryption & Soft Delete Lab
 
 Securing Azure Storage Accounts with encryption-at-rest and Blob Soft Delete to protect and recover data in the cloud.
 

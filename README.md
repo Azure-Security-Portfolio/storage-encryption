@@ -81,7 +81,7 @@ This lab demonstrates how to secure Azure Storage Accounts with encryption-at-re
 **4. Storage Account Creation & Encryption**  
    - Created a StorageV2 account and reviewed encryption settings.  
    - Attempted to configure customer-managed key (CMK) encryption.  
-   - If not possible, confirmed Microsoft-managed key encryption as baseline *(Screenshot: `storage-account-creation-encryption.png`, `encryption-customer-managed-key.png` or `encryption-microsoft-managed-key.png`)*
+   - If not possible, confirmed Microsoft-managed key encryption as baseline *(Screenshot: `storage-account-creation-encryption.png`, `encryption-customer-managed-key.png` & `encryption-microsoft-managed-key.png`)*
 
 **5. Blob Soft Delete Configuration**  
    - Enabled Blob Soft Delete with custom retention period to protect against accidental/malicious deletion *(Screenshot: `enable-blob-soft-delete.png`)*
@@ -103,7 +103,7 @@ This lab demonstrates how to secure Azure Storage Accounts with encryption-at-re
 
 ## Screenshots
 
-*All screenshots are included in the screenshots/ folder.*
+*All screenshots are included in the `screenshots/` folder.*
 
 | Step | Filename                                | Description                                        |
 | ---- | --------------------------------------- | -------------------------------------------------- |
